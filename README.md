@@ -1,6 +1,6 @@
 ## Vista general
 
-La aplicación permite listar edificaciones y visualizar su ubicación en un mapa alternativo sin requerir API Key.
+La aplicación permite listar edificaciones y visualizar su ubicación en un mapa alternativo.
 
 <p align="center">
   <img src="screenshots/bienvenida.jpg" width="400">
